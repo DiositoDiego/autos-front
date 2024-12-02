@@ -4,7 +4,7 @@
     <nav>
       <ul>
         <li><router-link to="/">Inicio</router-link></li>
-        <li><router-link to="/about">Acerca de</router-link></li>
+        <li><router-link to="/about">Acerca de Diego</router-link></li>
       </ul>
     </nav>
     <router-view/>
